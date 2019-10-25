@@ -10,9 +10,9 @@ Nil 的个人博客
 
 ### 最新
 
-* [MJExtension学习笔记](https://www.66n.top/solo-v3.6.4/articles/2019/09/13/1568346947516.html)
-* [YYCache学习笔记](https://www.66n.top/solo-v3.6.4/articles/2019/09/03/1567499763818.html)
-* [我在 GitHub 上的开源项目](https://www.66n.top/solo-v3.6.4/my-github-repos)
+* [MJExtension学习笔记](https://www.66n.top/articles/2019/09/13/1568346947516.html)
+* [YYCache学习笔记](https://www.66n.top/articles/2019/09/03/1567499763818.html)
+* [我在 GitHub 上的开源项目](https://www.66n.top/my-github-repos)
 
 
 
